@@ -7,3 +7,4 @@ Here's my take on the [Advent of Code 2023](https://adventofcode.com/) challenge
 - Day 3: Gear Ratios : [Problem](https://adventofcode.com/2023/day/3) | [Solution](solutions/day-3/solution.js)
 - Day 4: Scratchcards : [Problem](https://adventofcode.com/2023/day/4) | [Solution](solutions/day-4/solution.js)
 - Day 5: If You Give A Seed A Fertilizer : [Problem](https://adventofcode.com/2023/day/5) | [Solution](solutions/day-5/solution.js)
+- Day 6: Wait For It : [Problem](https://adventofcode.com/2023/day/6) | [Solution](solutions/day-6/solution.js)
