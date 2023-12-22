@@ -9,3 +9,4 @@ Here's my take on the [Advent of Code 2023](https://adventofcode.com/) challenge
 - Day 5: If You Give A Seed A Fertilizer : [Problem](https://adventofcode.com/2023/day/5) | [Solution](solutions/day-5/solution.js)
 - Day 6: Wait For It : [Problem](https://adventofcode.com/2023/day/6) | [Solution](solutions/day-6/solution.js)
 - Day 7: Camel Cards : [Problem](https://adventofcode.com/2023/day/7) | [Solution](solutions/day-7/solution.js)
+- Day 8: Haunted Wasteland : [Problem](https://adventofcode.com/2023/day/8) | [Solution](solutions/day-8/solution.js)
